@@ -95,7 +95,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Fasil Rahman - faazilrahmaan@gmail.com
 
-Project Link: [https://github.com/yourusername/timetable](https://github.com/yourusername/timetable)
+Project Link: https://github.com/faaasiill/Timetable?tab=readme-ov-file
 
 ## Acknowledgements
 
